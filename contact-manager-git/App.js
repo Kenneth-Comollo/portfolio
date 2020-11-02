@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import AddPersonForm from "./Components/AddPersonForm";
-import PeopleList from "./Components/PeopleList";
+import ContactManager from "./Components/ContactManager"
 
-const contacts = ["James Smith", "Thomas Anderson", "Bruce Wayne"]
+const contacts = ["James Smith", "Thomas Anderson", "Bruce Wayne"];
 
 
 function App() {
@@ -13,8 +12,7 @@ function App() {
           Contact Manager
         </h1>
       </header>
-      <AddPersonForm />
-      <PeopleList data={contacts} />
+      <ContactManager data={contacts} />
     </div>
   );
 }
