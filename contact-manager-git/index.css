@@ -17,9 +17,21 @@ body {
 }
 
 form {
-  padding: 10px;
+  margin: 10px;
 }
 
 button {
   margin: 25px;
+}
+
+ul {
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  background-color:rgba(61, 120, 175, 0.411);
+  border-radius: 10px;
 }
