@@ -6,9 +6,13 @@ class Header extends Component {
 
   render() {
     return (
-      <div>
-        <Branding />
-        <Navbar />
+      <div className="header row">
+        <div className="col-md-4">
+          <Branding />
+        </div>
+        <div className="col-md-4">
+          <Navbar />
+        </div>
       </div>
     );
   }
