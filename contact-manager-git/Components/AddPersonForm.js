@@ -1,4 +1,7 @@
-import React, { Component, useState } from 'react';
+import React, { useState } from 'react';
+import { connect } from 'react-redux';
+import { addPerson } from '../actions';
+
 
 function AddPersonForm(props) {
   const[person, setPerson] = useState("");
@@ -9,7 +12,7 @@ function AddPersonForm(props) {
 
   function handleSubmit(e) {
     if(person !== "") {
-      props.handleSubmit(person);
+      props.addPerson(person);
       setPerson('');
     }
     e.preventDefault();
@@ -18,11 +21,15 @@ function AddPersonForm(props) {
   return (
     <form onSubmit={handleSubmit}>
       <input type="text" placeholder="Add new contact" onChange={handleChange} value={person} />
-      <button type="submit">Add</button>
+      <button className="btn btn-primary" type="submit">Add</button>
     </form>
   );
 }
 
-export default AddPersonForm;
+const mapDispatchToProps = {
+  addPerson
+}
+
+export default connect(null, mapDispatchToProps)(AddPersonForm);
 
 

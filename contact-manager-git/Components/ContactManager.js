@@ -1,7 +1,6 @@
-import React, { Component, useState } from 'react';
+import React, { useState } from 'react';
 import AddPersonForm from './AddPersonForm';
 import PeopleList from "./PeopleList";
-
 
 
 function ContactManager(props) {
