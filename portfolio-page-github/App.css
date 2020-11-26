@@ -1,0 +1,18 @@
+* {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+}
+
+.navigation-sub {
+  width: 35%;
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
