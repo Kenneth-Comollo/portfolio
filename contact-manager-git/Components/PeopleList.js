@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 
 function PeopleList(props) {
-  const arr = props.cotacts;
+  const arr = props.conntacts;
   const listItems = arr.map((val, index) => 
     <li key={index}>{val}</li>
     );
