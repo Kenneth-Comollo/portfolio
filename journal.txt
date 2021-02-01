@@ -5,5 +5,5 @@ Let's do this!!!
 Date: 02/01/2021
 Entry: Continued to read Web Security for Developers by Malcolm McDonald. Finished up Chapter 6 - Injection Attacks. The chapter contained some good info on mitigating
 SQL injection by using bind parameters/parameterized statements and also object-relational mapping. It also touched on command injection attacks, remote code execution,
-and file upload attacks.
+and file upload attacks. Started Chapter 7 - Cross-Site Scripting Attacks.
 
