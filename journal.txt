@@ -1,5 +1,9 @@
-Creating this Journal to help show that I am actively learning, as well as to keep my focus. I had become a bit too distracted trading stocks the last few months, and am hoping that this journal will get me back on track. It will include information about what I have been working on, and maybe also some notes. Format may be subject to change over time. Let's do this!!!
+Creating this Journal to help show that I am actively learning, as well as to keep my focus. I had become a bit too distracted trading stocks the last few months,
+and am hoping that this journal will get me back on track. It will include information about what I have been working on, and maybe also some notes. 
+Let's do this!!!
 
 Date: 02/01/2021
-Entry: Continued to read Web Security for Developers by Malcolm McDonald. Finished up Chapter 6 - Injection Attacks. The chapter contained some good info on mitigating SQL injection by using bind parameters/parameterized statements and also object-relational mapping. It also touched on command injection attacks, remote code execution, and file upload attacks.
+Entry: Continued to read Web Security for Developers by Malcolm McDonald. Finished up Chapter 6 - Injection Attacks. The chapter contained some good info on mitigating
+SQL injection by using bind parameters/parameterized statements and also object-relational mapping. It also touched on command injection attacks, remote code execution,
+and file upload attacks.
 
