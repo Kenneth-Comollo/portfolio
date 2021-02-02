@@ -8,7 +8,7 @@ SQL injection by using bind parameters/parameterized statements and also object-
 and file upload attacks. Started Chapter 7 - Cross-Site Scripting Attacks. Created a TryHackMe account.
 
 Date: 02/02/2021
-Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attacks.
+Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attacks. Created a Kali VM.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
