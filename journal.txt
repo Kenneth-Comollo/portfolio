@@ -7,3 +7,8 @@ Entry: Continued to read Web Security for Developers by Malcolm McDonald. Finish
 SQL injection by using bind parameters/parameterized statements and also object-relational mapping. It also touched on command injection attacks, remote code execution,
 and file upload attacks. Started Chapter 7 - Cross-Site Scripting Attacks. Created a TryHackMe account.
 
+Date: 02/02/2021
+Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attacks.
+
+Date: xx/xx/2021
+Entry: xxxxxxxxxxxxxxxxxxxxx
