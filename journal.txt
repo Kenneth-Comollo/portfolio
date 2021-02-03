@@ -8,7 +8,9 @@ SQL injection by using bind parameters/parameterized statements and also object-
 and file upload attacks. Started Chapter 7 - Cross-Site Scripting Attacks. Created a TryHackMe account.
 
 Date: 02/02/2021
-Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attacks. Created a Kali VM. Got Kali VM connected to TryHackMe using OpenVPN. Started their Linux course as a refresher. Also completed the THM tutorial.
+Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attacks. Created a Kali VM. Got Kali VM connected to TryHackMe using OpenVPN. Started their 
+Linux course as a refresher. Also completed the THM tutorial. Only get 1 hour a day on THM free tier. Going to see how it goes and maybe sign up for paid sub. Completed
+first Linux room - was a good memory jogger.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
