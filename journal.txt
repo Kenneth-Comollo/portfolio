@@ -12,8 +12,8 @@ Entry: Finished Chapter 7. Started Chapter 8 - Cross-Site Request Forgery Attack
 Linux course as a refresher. Also completed the THM tutorial. Only get 1 hour a day on THM free tier. Going to see how it goes and maybe sign up for paid sub. Completed
 first Linux room - was a good memory jogger.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/03/2021
+Entry: Continued TryHackMe. Completed Linux part 2 and almost part 3 but my time ran out. Memory getting jogged pretty well - I'm digginig it. Reached level 2!! Whoa!!!
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
