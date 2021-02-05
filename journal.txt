@@ -16,7 +16,7 @@ Date: 02/03/2021
 Entry: Continued TryHackMe. Completed Linux part 2 and almost part 3 but my time ran out. Memory getting jogged pretty well - I'm digginig it. Reached level 2!! Whoa!!!
 
 Date: 02/04/2021
-Entry: Read the AWS Blue/Green Deployment docs. Couldn't hurt to learn more about cloud services.
+Entry: Read the AWS Blue/Green Deployment docs. Couldn't hurt to learn more about cloud services. Finished Linux Part 3 on THM. That course was an excellent refresher for my SOC days using Linux all the time.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
