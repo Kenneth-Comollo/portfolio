@@ -15,8 +15,8 @@ first Linux room - was a good memory jogger.
 Date: 02/03/2021
 Entry: Continued TryHackMe. Completed Linux part 2 and almost part 3 but my time ran out. Memory getting jogged pretty well - I'm digginig it. Reached level 2!! Whoa!!!
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/04/2021
+Entry: Read the AWS Blue/Green Deployment docs. Couldn't hurt to learn more about cloud services.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
