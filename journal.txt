@@ -18,8 +18,8 @@ Entry: Continued TryHackMe. Completed Linux part 2 and almost part 3 but my time
 Date: 02/04/2021
 Entry: Read the AWS Blue/Green Deployment docs. Couldn't hurt to learn more about cloud services. Finished Linux Part 3 on THM. That course was an excellent refresher for my SOC days using Linux all the time.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/05/2021
+Entry: Continued reading Web Security for Developers by Malcolm McDonald. Finished up Chapter 7, Chapter 8 - Cross-site request forgery, Chapter 9 - Compromising Authentication, and Chapter 10 - Session Hijacking.  
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
