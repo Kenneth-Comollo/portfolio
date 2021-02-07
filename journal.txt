@@ -25,7 +25,7 @@ Date: 02/06/2021
 Entry: Continued TryHackMe. Completed Web Security room, and made good progress in OWASP room. Will pick back up in OWASP room upon return.
 
 Date: 02/07/2021
-Entry: Completed Web Security for Developers Chapter 11 - Permissions.
+Entry: Completed Web Security for Developers Chapter 11 - Permissions. Continued THM OWASP room. Almost to level 3. It's Super Bowl Sunday and it has been a productive week so going to take the rest of the day off to relax and recharge.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
