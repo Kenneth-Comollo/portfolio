@@ -21,8 +21,8 @@ Entry: Read the AWS Blue/Green Deployment docs. Couldn't hurt to learn more abou
 Date: 02/05/2021
 Entry: Continued reading Web Security for Developers by Malcolm McDonald. Finished up Chapter 7, Chapter 8 - Cross-site request forgery, Chapter 9 - Compromising Authentication, and Chapter 10 - Session Hijacking. Continued THM. Completed Network room on THM. These are really good reviews for me. Everything is coming back to me at a rapid pace. 
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/06/2021
+Entry: Continued TryHackMe. Completed Web Security room, and made good progress in OWASP room. Will pick back up in OWASP room upon return.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
