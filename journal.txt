@@ -24,8 +24,8 @@ Entry: Continued reading Web Security for Developers by Malcolm McDonald. Finish
 Date: 02/06/2021
 Entry: Continued TryHackMe. Completed Web Security room, and made good progress in OWASP room. Will pick back up in OWASP room upon return.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/07/2021
+Entry: Completed Web Security for Developers Chapter 11 - Permissions.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
