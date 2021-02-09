@@ -28,7 +28,7 @@ Date: 02/07/2021
 Entry: Completed Web Security for Developers Chapter 11 - Permissions. Continued THM OWASP room. Almost to level 3. It's Super Bowl Sunday and it has been a productive week so going to take the rest of the day off to relax and recharge.
 
 Date: xx/xx/2021
-Entry: Set up VM for The Odin Project.
+Entry: Set up VM for The Odin Project. Continued THM OWASP room. It's a pretty long room but almost done. Reached level 3!
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
