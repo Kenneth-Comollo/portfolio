@@ -30,7 +30,7 @@ Entry: Completed Web Security for Developers Chapter 11 - Permissions. Continued
 Date: 02/08/2021
 Entry: Set up VM for The Odin Project. Continued THM OWASP room. It's a pretty long room but almost done. Reached level 3!
 
-Date: xx/xx/2021
+Date: 02/09/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
 
 Date: xx/xx/2021
