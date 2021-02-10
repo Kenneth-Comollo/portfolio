@@ -31,7 +31,7 @@ Date: 02/08/2021
 Entry: Set up VM for The Odin Project. Continued THM OWASP room. It's a pretty long room but almost done. Reached level 3!
 
 Date: 02/09/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Entry: Completed the OWASP room on thm. That was a long room and more difficult than I thought it would be, but I learned a lot. There were some good attack challenges that didn't hold your hand too much.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
