@@ -33,8 +33,8 @@ Entry: Set up VM for The Odin Project. Continued THM OWASP room. It's a pretty l
 Date: 02/09/2021
 Entry: Completed the OWASP room on thm. That was a long room and more difficult than I thought it would be, but I learned a lot. There were some good attack challenges that didn't hold your hand too much.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/13/2021
+Entry: Been sidetracked the last few days - my car died and have spent more time than I would like researching used vehicles. When it rains it pours... I have continued TryHackMe, keeping my streak alive. Started the pen test room.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
