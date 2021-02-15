@@ -37,7 +37,7 @@ Date: 02/13/2021
 Entry: Been sidetracked the last few days - my car died and have spent more time than I would like researching used vehicles. When it rains it pours... I have continued TryHackMe, keeping my streak alive. Started the pen test room.
 
 Date: 02/14/2021
-Entry: Read 2 Chapters of Web Securtiy book - Information Leaks and Encryption. Continued pen testing room on thm. Made it to level 4!
+Entry: Read 2 Chapters of Web Securtiy book - Information Leaks and Encryption. Continued pen testing room on thm. Made it to level 4! Went through the netcat, nitko, gobuster sections and much of the metasploit section.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
