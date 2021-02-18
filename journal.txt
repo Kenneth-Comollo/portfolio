@@ -45,8 +45,8 @@ Entry: Read Third Party Code chapter of web security book. Started xml chapter. 
 Date: 02/16/2021
 Entry: Read the last 4 chapters of Web Security book - finished the book!!! Continued TryHackMe. Completed the Metasploit walkthrough! Moving up in the ranks! Hope to crack level 5 by next week.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/17/2021
+Entry: Continued TryHackMe. Spent a lot of time looking at used cars online and stressing out over the buying process. I really need to find a ride soon, so that I don't have to keep worrying about it.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
