@@ -51,8 +51,8 @@ Entry: Continued TryHackMe. Spent a lot of time looking at used cars online and 
 Date: 02/18/2021
 Entry: Signed up for the Tenable Capture the Flag competition, which begins today. I will report back with how it goes.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/19/2021
+Entry: Was able to solve some of the CTF challenges! The ones remaining are a bit more difficult, but going to see if I can solve some more.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
