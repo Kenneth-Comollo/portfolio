@@ -52,7 +52,7 @@ Date: 02/18/2021
 Entry: Signed up for the Tenable Capture the Flag competition, which begins today. I will report back with how it goes.
 
 Date: 02/19/2021
-Entry: Was able to solve some of the CTF challenges! The ones remaining are a bit more difficult, but going to see if I can solve some more.
+Entry: Was able to solve some of the CTF challenges! The ones remaining are a bit more difficult, but going to see if I can solve some more. Got one more but some of these are making my head hurt now. Going to do a lil bit of Odin Project while eating pizza, and then call it a night. It's Friday night - need to recharge
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
