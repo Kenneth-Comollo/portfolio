@@ -60,8 +60,8 @@ Entry: Continued Tenable CTF - they added more challenges - have over 500 points
 Date: 02/22/2021
 Entry: The Tenabale Capture The Flag event ended today. Finished with 650 points and our team in the top 1/3 - I had a lot fo fun with that! Got pretty close to capturing more flags
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 02/23/2021
+Entry: Continude thm - learning about sqlmap. Spent way too much time looking at cars - I really need to get one and get on with my life. Don't want to spend the money but really need a car to get around this city.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
