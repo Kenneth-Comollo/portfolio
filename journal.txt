@@ -72,8 +72,8 @@ Entry: Not the best day. Managed to at least get a littel thm done. Walked about
 Date: 02/26/2021
 Entry: Got to the final exam of pen testing room on thm. Thought I found a car but now the seller is not responding after I asked to have a mechanic buddy come check it out...
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/02/2021
+Entry: Got a car yesterday and registered it today!! Got a good deal but the thing smells like cigarettes and perfume lol - gonna clean it out when it stops raining. Doing some TryHackMe tonight
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
