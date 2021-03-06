@@ -75,8 +75,8 @@ Entry: Got to the final exam of pen testing room on thm. Thought I found a car b
 Date: 03/02/2021
 Entry: Got a car yesterday and registered it today!! Got a good deal but the thing smells like cigarettes and perfume lol - gonna clean it out when it stops raining. Doing some TryHackMe tonight
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/05/2021
+Entry: Spent the last couple days trying to clean out the car. Is smelling a bit better. Getting back to work tonight with a lil THM and Odin Project.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
