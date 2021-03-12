@@ -78,8 +78,8 @@ Entry: Got a car yesterday and registered it today!! Got a good deal but the thi
 Date: 03/05/2021
 Entry: Spent the last couple days trying to clean out the car. Is smelling a bit better. Getting back to work tonight with a lil THM and Odin Project.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/11/2021
+Entry: Think I'm gonna go for the AWS Associate's certs. Picked up a part time job that is not very fun but I am able to listen to AWS follow-alongs while I work.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
