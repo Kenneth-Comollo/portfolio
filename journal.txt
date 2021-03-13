@@ -81,8 +81,8 @@ Entry: Spent the last couple days trying to clean out the car. Is smelling a bit
 Date: 03/11/2021
 Entry: Think I'm gonna go for the AWS Associate's certs. Picked up a part time job that is not very fun but I am able to listen to AWS follow-alongs while I work. Continued THM. Broke the top 10%. Working throught the nmap room atm.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/12/2021
+Entry: Continued THM and AWS training
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
