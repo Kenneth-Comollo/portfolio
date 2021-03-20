@@ -87,8 +87,8 @@ Entry: Continued THM and AWS training
 Date: 03/16/2021
 Entry: Went to work, almost finsihed taxes, completed Nmap room on THM.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/19/2021
+Entry: Made it to level 6 in THM! Decided on getting the AWS Solutions Architect - will probably schedule over the weekend for next month.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
