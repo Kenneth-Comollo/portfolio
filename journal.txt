@@ -93,8 +93,8 @@ Entry: Made it to level 6 in THM! Decided on getting the AWS Solutions Architect
 Date: 03/20/2021
 Entry: Completed Linux Strength Training room on THM. About to study some AWS.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/21/2021
+Entry: Started Metasploit room in THM. Will be working on AWS for the rest of the evening.
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
