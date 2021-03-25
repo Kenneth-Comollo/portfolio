@@ -96,8 +96,8 @@ Entry: Completed Linux Strength Training room on THM. About to study some AWS.
 Date: 03/21/2021
 Entry: Started Metasploit room in THM. Will be working on AWS for the rest of the evening.
 
-Date: xx/xx/2021
-Entry: xxxxxxxxxxxxxxxxxxxxx
+Date: 03/23/2021
+Entry: Odin Project - git section
 
 Date: xx/xx/2021
 Entry: xxxxxxxxxxxxxxxxxxxxx
