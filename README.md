@@ -1,8 +1,5 @@
-Currently Under Construction. Please excuse the mess 
+simple coding projects by Kenneth Comollo
 
-1. Portfolio Page
-  - in progress
-2. Simple Contact Manager App created to gain familiarity with React and Redux
-  - will most likely be updated or replaced
-3. Drum Machine
-  - in progress
+This page may be updated or replaced in the future. 
+
+
